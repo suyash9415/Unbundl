@@ -1,2 +1,2 @@
-# Unbundl
+# Image Slider
 Assignment 
